@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exércicio 01</title>
+    <link rel="shortcut icon" href="imagens/html-css-javascript.jpg" type="image/x-icon">
+</head>
+<body>
+<h1> TechSolutions</h1>
+<br>
+<img src="imagens/Capa.avif" alt="Imagem da empresa" width="" height="200">
+<hr>
+<h3>Uma empresa de tecnologia oferece produtos e serviços <br> como a criação de software, desenvolvimento de aplicativos, 
+    <br> 
+    plataformas e sistemas, e consultoria.
+</h3>
+<h4>Nossos Serviços</h4> 
+<ol>
+    <li>Atendimento Remoto 24 horas</li>
+    <li>Criação de Software</li>
+    <li>Suporte ao usuário</li>
+</ol>
+
+<h4>Nossa equipe</h4>
+
+<ul> <li>Carlos Oliveira Macedo - Representante da nossa equipe comercial, ele é o responsável pela por fazer o Marketing da empresa.</li>
+     <li>José Santos Santana - Gerente de RH - Responsável pela equipe do RH e gerenciar todos os documentos dos funcionários. </li>
+</ul>
+
+<h4>Fale conosco</h4>
+<ul>
+    <li>(71) 9 9341-9982</li> <br>
+    <li>tech.soluctions@gmail.com</li> 
+</ul>
+
+
+<h4>Links para contato:</h4>
+<a href="https://br.linkedin.com/company/solutis-tecnologias">LinkedIn</a> 
+<br>
+<a href="https://maps.app.goo.gl/o2GpuDGT4rVC9ob88">Mapa</a>
+
+    
+</body>
+</html>
